@@ -11,8 +11,8 @@
   <img src="https://te.legra.ph/file/7a7daa85e5f024a476b38.jpg">
 </p>
 
-ᴄᴀɴ ʙᴇ ғɪɴᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴇx ʀᴏʙᴏᴛ](https://t.me/THE_VIP_ROBOT)
-━━━━━━━━━━━━━━━━━━━━
+ᴄᴀɴ ʙᴇ ғɪɴᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴇx ʀᴏʙᴏᴛ](https://t.me/The_AlexRobot)
+
 
 
 
@@ -39,4 +39,4 @@
 <a href="https://t.me/Sangram_Updates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
+
